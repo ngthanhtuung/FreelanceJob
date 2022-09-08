@@ -1,12 +1,12 @@
-# FPTFREELANCEJOB - WEB FOR STUDENT FPT TO FIND JOB
+# FPT Freelance Job | Software Development Project
 
 ## 💡 Introduction
 
-FPT Freelance Job is the web-based application about looking for freelance jobs for the FPT students Ho Chi Minh City campus, user can create, manage jobs or apply for jobs.
+**FPT Freelance Job (FUFJ)** is one of the smart school systems and is developed on a web platform with the aim of creating a platform that allows all students who are studying and researching at FPT University in Ho Chi Minh Campus to find freelance jobs. From there, they can apply the knowledge they have learned through jobs to improve their skills and earn extra income.
 
 ## 👋 Background
 
-Group project for `Software Development Project (SWP391)` subject at FPT University.
+Mini Capstone for `Software Development Project (SWP391)` subject at FPT University HCMC.
 
 ## ⚙️ Technology
 
@@ -16,28 +16,12 @@ Group project for `Software Development Project (SWP391)` subject at FPT Univers
   - `Bootstrap 4`
   - `JSTL` - Standard Tag Library for JSP
 - Backend
-  - `Servlet`
-  - `AWS`
-  - `MS SQL`
-- Others
-  - `Trello`
-  - `Github`
-  - `Send Grid`
-  - `Stripe`
-
-
-## 🏃‍♂️ How to run project
-
-- To run this project, you should use Netbeans IDE (especially version 12.4) to run easily, another IDE like IntelliJ, Eclipse,... You need to find the way to config this project before using.
-- You must install maven `https://phoenixnap.com/kb/install-maven-windows`
-- After open project and run file pom.xml to install dependency.
-- At `src\utils\DBUtils.java` file, you need to change this code into your password to use database.
-- Set up database by running the `freelanceJob123.sql` file in `database` folder.
-- Finally, let's start to experience the website.
-
-## ⚠️ Note
-
-- To use system this project, please login with `Gmail by @fpt.edu.vn`
+  - `Servlet` - Java programming language class that is used to extend the capabilities of servers
+  - `JDBC` - A Java API to connect and execute the query with the database
+  - `MS SQL` - A relational database management system developed by Microsoft
+  - `AWS` - Amazon Web Service
+  - `Send Grid` - SendGrid’s email delivery engine makes sure your messages reach the inbox.
+  - `Stripe` - Payment method
 
 ## License & copyright
 
